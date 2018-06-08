@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/NodeCourse/github-leads-AlexandreChampolion#readme",
   "dependencies": {
-    "commander": "^2.15.1"
+    "@octokit/rest": "^15.8.1",
+    "commander": "^2.15.1",
+    "csv-writer": "^1.0.0",
+    "flatten-array": "^1.0.0",
+    "nodemon": "^1.17.5"
   }
 }
